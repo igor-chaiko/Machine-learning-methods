@@ -1,2 +1,2 @@
 # Machine-learning-methods
-Machine
+Nsu cs course
